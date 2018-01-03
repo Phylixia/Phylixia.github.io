@@ -1,5 +1,5 @@
 ---
-title: First blogpost
+title: First Blogpost
 date: 2018-01-03
 categories: update
 ---
