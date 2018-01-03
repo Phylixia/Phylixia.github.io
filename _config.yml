@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boon Kai"
+  name             : "Phylixia"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "A casual human who sometimes build some stupid stuff with crazy ideas"
   location         : "Malaysia"
-  email            :
+  email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : https://github.com/Phylixia
   gitlab           :
   google_plus      :
   keybase          :
