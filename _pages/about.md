@@ -19,9 +19,9 @@ This site is a blogspot where i could share and update (as well as documenting) 
 
 I've thinked for a long time what to name my first ever blogspot (or something like that if it isn't =P). Finally until its time up for the decision I came up with this title: Phylixia's Hideout totally out of nowhere. It doesnt have much story behind, but to crack it word-by-word, "Phylixia" was my common-used name normally in Games. Well don't ask me why, it just came itself while I was dreaming someday. 
 
-And about the "Hideout", I think probably I'm more to an introvert person (maybe?), and I found that the world and human beings are too complicated, that I always hope I have a place to hide myself from the complications (and I failed? human being are complicated after all). Maybe that's why the word came up to me.
+And about the "Hideout", I think probably I'm more to an introvert person (maybe?), and I found that the world and human beings are too complicated, that I always hope I have a place to hide myself from the complications. Maybe that's why the word came up to me.
 
-Combining both word it typically means "My Hideout" for me, feeling like a comfort zone for me (It realy sounds comfortable to me tho). So, it's decided then.
+Combining both word it typically means "My Hideout", feeling like a comfort zone for me (It really sounds comfortable to me tho). So, it's decided then.
 
 This blog is available thanks to my friend, Yun Kai who is a final year undergraduate in Computer Science, who taught me how to build this page, as well as building cool stuff together.
 
