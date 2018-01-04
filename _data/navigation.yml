@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
-  - title: "###Source Template"
+  - title: "Source"
     url: https://github.com/limyunkai19/minimal-mistakes-jekyll
   # - title: "Sample Collections"
   #   url: /collection-archive/
