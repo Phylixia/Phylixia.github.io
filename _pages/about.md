@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
+<br>
+
 **About Me**
 
 I'm a soon-to-be final year undergraduate pursuing Electronics Engineering. I enjoy building stuffs, or take things apart to understand how they work. I too like to take part in robotics and automations. This interest had been inside me since my secondary while I'm in my secondary school Robotics Club. 
