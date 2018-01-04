@@ -9,7 +9,7 @@ title: "About"
 
 I'm a soon-to-be final year undergraduate pursuing Electronics Engineering. I enjoy building stuffs, or take things apart to understand how they work. I too like to take part in robotics and automations. This interest had been inside me since my secondary while I'm in my secondary school Robotics Club. 
 
-I hav been participating actively in the club and had been taken part in annually National Robotics Competition (NRC) several times. We did win, but not Champion, but as First Runner-up. The project which me and my teammates built was so great and unforgettable that I'm still feeling proud that we had succesfully built it. Throught here I need to thank my teammates, Zachary Lim Zhao Xing and Tan Chun Tat for being with me during that precious secondary school years.
+I hav been participating actively in the club and had been taken part in annually National Robotics Competition (NRC) several times. We did win, but not Champion, but as First Runner-up. The project which me and my teammates built was so great and unforgettable that I'm still feeling proud that we had succesfully built it. Through here I need to thank my teammates, Zachary Lim Zhao Xing and Tan Chun Tat for being with me during that precious secondary school years.
 
 Let's get back to the topic, I like to participate in competitions, it makes me feel that I'm challenged, as well as training my problem solving skills. In my University, I'm trying to start-up a Makerspace together with Yun Kai. Hopefully it'll go smooth.
 
